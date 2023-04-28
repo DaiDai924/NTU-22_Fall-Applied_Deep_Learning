@@ -1,0 +1,13 @@
+# requirements
+
+torch==1.12.1
+
+# CUDA 11.6
+# torch==1.12.0+cu116 --extra-index-url https://download.pytorch.org/whl/cu116
+
+tensorflow==2.10.0
+seqeval==1.2.2
+tqdm
+numpy
+pandas
+scikit-learn==1.1.2
