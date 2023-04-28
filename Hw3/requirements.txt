@@ -1,0 +1,19 @@
+# requirements
+
+# torch==1.12.1
+
+# CUDA 11.6
+# torch==1.12.1+cu116 --extra-index-url https://download.pytorch.org/whl/cu116
+
+nltk==3.7
+transformers==4.22.2
+datasets==2.5.2
+accelerate==0.13.0
+
+sentencepiece
+protobuf==3.20.0
+tensorflow==2.3.0
+
+# if running learning_curve.py to plot the curves
+# numpy>1.19.0
+# matplotlib
