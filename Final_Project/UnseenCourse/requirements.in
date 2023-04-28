@@ -1,0 +1,4 @@
+# requirements
+tqdm
+pandas
+gdown
