@@ -1,0 +1,9 @@
+# requirements
+
+torch==1.12.1+cu116
+numpy
+tqdm
+pandas
+ckip-transformers
+zhon
+rank_bm25
